@@ -112,5 +112,111 @@ footer {
      padding-right: 20px;
 }
 
+.benefits-header { 
+    font-weight: 600;
+    font-size: 24px;
+    text-indent: 50px;
+    color: #033048;
+}
 
+.benefits-tagline {
+    font-size: 13px;
+    font-weight: 300;
+    text-indent: 50px;
+    padding-bottom: 20px;
+    color: #606161;
+}
+
+.benefits-list { 
+    text-indent: 70px;
+    list-style-position: inside;
+    color: #606161;
+    padding-bottom: 10px;
+}
+
+section {
+    background: url(../images/testimonial_bg.jpg) no-repeat;
+    background-size: cover;
+    height: 300px;
+ }
+
+ .section-text { 
+    color: white;
+    font-weight: 300;
+    font-style: italic;
+    text-align: center;
+    padding-top: 85px;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-bottom: 0px;
+    font-size: 18px;
+    font-family: lato;
+    
+}
+
+.amanda-quote {
+
+    color: white;
+    font-weight: 600;
+    font-size: 18px;
+    text-align: center;
+
+}
+
+.amanda-name {
+    margin-top: 0px;
+}
+
+.notbold { font-weight: 400;
+ }
+
+
+.signupnow {
+    background-color: yellow;
+    height: 70px;
+    text-align: center;
+    
+    padding-top: 20px;
+}
+
+.signupbutton {
+     color: white;
+     border-radius: 2px;
+     font-weight: 800;
+     font-size: 12px;
+     background: #033048;
+     border-color: #033048;
+     border-style: solid;
+     padding-left: 30px;
+     padding-right: 30px;
+     padding-top: 5px;
+     padding-bottom: 5px;
+ }
+
+footer{
+    background-color: black;
+    height: 215px;
+    color: yellow;
+    text-align: center;
+    font-weight: 800;
+    font-size: 24px;
+}
+
+footer h1 {
+    margin-top: 0px;
+    font-size: 24px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.copywright {
+    color: white;
+    font-size: 9px;
+    font-weight: 600;
+    padding-top: 35px;
+}
+
+.twitter_png {
+    margin-right: 30px;
+}
 
